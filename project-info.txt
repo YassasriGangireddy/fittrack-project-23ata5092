@@ -1,9 +1,3 @@
 Project: FitTrack Mobile App
 Team: Development Team Alpha
 Start Date: February 2026
-Roll Number: 23ATA05092
-
-
-Features:
-- User authentication
-- Workout tracking
